@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be2309ea.chunk.css",
+    "main.js": "/static/js/main.08f6def4.chunk.js",
+    "main.js.map": "/static/js/main.08f6def4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1f0f2abf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1f0f2abf.js.map",
+    "static/js/2.f17ecd66.chunk.js": "/static/js/2.f17ecd66.chunk.js",
+    "static/js/2.f17ecd66.chunk.js.map": "/static/js/2.f17ecd66.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.381df873653d14c5651b5b23213bcdd9.js": "/precache-manifest.381df873653d14c5651b5b23213bcdd9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.be2309ea.chunk.css.map": "/static/css/main.be2309ea.chunk.css.map",
+    "static/js/2.f17ecd66.chunk.js.LICENSE.txt": "/static/js/2.f17ecd66.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/static/media/arrow.70ca70df.svg",
+    "static/media/bigslider_1.png": "/static/media/bigslider_1.b42582ce.png",
+    "static/media/bigslider_2.png": "/static/media/bigslider_2.e5b2f99c.png",
+    "static/media/clock.svg": "/static/media/clock.29a2232a.svg",
+    "static/media/discover.svg": "/static/media/discover.388696a3.svg",
+    "static/media/fb.svg": "/static/media/fb.0807d203.svg",
+    "static/media/globe.svg": "/static/media/globe.f459e503.svg",
+    "static/media/home.svg": "/static/media/home.052c937f.svg",
+    "static/media/insta.svg": "/static/media/insta.0e65a787.svg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/mail.svg": "/static/media/mail.147b3ca0.svg",
+    "static/media/news_bg.png": "/static/media/news_bg.10f09420.png",
+    "static/media/photos.svg": "/static/media/photos.2d355056.svg",
+    "static/media/send.svg": "/static/media/send.8579c258.svg",
+    "static/media/smallslider_1.png": "/static/media/smallslider_1.ebff4a19.png",
+    "static/media/smallslider_2.png": "/static/media/smallslider_2.718db5f8.png",
+    "static/media/smallslider_3.png": "/static/media/smallslider_3.5f4dde5b.png",
+    "static/media/trending_1.png": "/static/media/trending_1.98d3d3db.png",
+    "static/media/trending_2.png": "/static/media/trending_2.b7d073a9.png",
+    "static/media/trending_3.png": "/static/media/trending_3.4f403975.png",
+    "static/media/twitter.svg": "/static/media/twitter.db08fa84.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f0f2abf.js",
+    "static/js/2.f17ecd66.chunk.js",
+    "static/css/main.be2309ea.chunk.css",
+    "static/js/main.08f6def4.chunk.js"
+  ]
+}
