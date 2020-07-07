@@ -764,6 +764,12 @@ p {
   .full-page-search form input:focus {
     font-size: 8px;
   }
+  .menuzord-responsive .menuzord-brand {
+    font-size: 25px;
+  }
+  .menuzord .showhide {
+    padding: 15px 0 0;
+  }
 }
 /*---------------------------------------
     SLIDER        
